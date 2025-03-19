@@ -39,8 +39,6 @@ npm install
 npm run dev
 ```
 
----
-
 ## 📮 Contact  
 ```text
 Created by neutrino2306 – Feel free to reach out! 🚀
